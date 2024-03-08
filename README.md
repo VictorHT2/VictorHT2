@@ -11,4 +11,5 @@
 	<a href="https://www.instagram.com/vic_hugo2002/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-  - [Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+	![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorHT2&show_icons=true&theme=radical) 
