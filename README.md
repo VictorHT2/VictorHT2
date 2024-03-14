@@ -1,3 +1,7 @@
+![banner](https://github.com/VictorHT2/VictorHT2/assets/147563131/612ff8b4-885f-4556-aa78-2938fa1770ba)
+
+
+
 # Olá, me chamo Victor Hugo :) ! 
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 I’m currently working on as a store assistant, but I'm looking for opportunities as a trainee or analyst
