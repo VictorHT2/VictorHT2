@@ -6,7 +6,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 - 🔭 I’m currently working on as a store assistant, but I'm looking for opportunities as a trainee or analyst
 - 🌱 I’m currently learning Python :snake:.
-- 👯 I’m looking to collaborate on Startup development projects
+- 👯 My portfolio with projects : https://victorht2.github.io/portifolio-victor/
 - 🤔 I’m looking for help with improvement in python, help with codes and ideas
 - CONNECT WITH ME 😃
  <p align="center">
